@@ -11,3 +11,5 @@ sudo apt install bat
 
 # Create symlinks
 ln -nfs $HOME/dotfiles/.zshrc $HOME/.zshrc
+ln -nfs $HOME/dotfiles/.alias $HOME/.alias
+ln -nfs $HOME/dotfiles/.p10k.zsh $HOME/.p10k.zsh
