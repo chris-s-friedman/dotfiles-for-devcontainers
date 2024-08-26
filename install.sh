@@ -8,3 +8,6 @@ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$
 sudo apt install npm
 sudo npm i -g gitmoji-cli
 sudo apt install bat
+
+# Create symlinks
+ln -nfs $HOME/dotfiles/.zshrc $HOME/.zshrc

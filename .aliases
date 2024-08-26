@@ -1,3 +1,0 @@
-alias ghpr='gh pr create --base development --web'
-alias gcd='git checkout development'
-alias cat='batcat'
